@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cpp_court_line"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/katiepruitt/Documents/research/cpp_court_line"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/katiepruitt/Documents/research/cpp_court_line"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/katiepruitt/Documents/research/cpp_court_line"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_court_line">
+				<Option output="/Users/katiepruitt/Documents/research/cpp_court_line/cpp_court_line" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/katiepruitt/Documents/research/cpp_court_line"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/katiepruitt/Documents/research/cpp_court_line/externals/gnuplot-iostream"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 cpp_court_line"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_court_line/fast">
+				<Option output="/Users/katiepruitt/Documents/research/cpp_court_line/cpp_court_line" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/katiepruitt/Documents/research/cpp_court_line"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/katiepruitt/Documents/research/cpp_court_line/externals/gnuplot-iostream"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 cpp_court_line/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/cpp_court_line/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/DominantColor.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/DominantColor.h">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/main.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/DrawDebug.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/DrawDebug.h">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/InitialBallTrack.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/InitialBallTrack.h">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/Line.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/Line.h">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/LineComparator.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/LineDetection.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/LineDetection.h">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/PixelDetection.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/PixelDetection.h">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/Plotter.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/Plotter.h">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/VolleyballCourtFitter.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/VolleyballCourtFitter.h">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/VolleyballCourtModel.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/VolleyballCourtModel.h">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/main.cpp">
+			<Option target="cpp_court_line"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/cpp_court_line/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

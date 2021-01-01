@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="cpp_court_line" targetName="cpp_court_line" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67332e24-b513-4c5b-9662-7daee2836715" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/tennis-court-detection/volleyball_old.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennis-court-detection/CourtLineCandidateDetector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tennis-court-detection/CourtLineCandidateDetector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennis-court-detection/Line.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tennis-court-detection/Line.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennis-court-detection/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/tennis-court-detection/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennis-court-detection/TennisCourtFitter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tennis-court-detection/TennisCourtFitter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tennis-court-detection/TennisCourtModel.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tennis-court-detection/TennisCourtModel.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="312250693">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JPG" value="2" />
+          <entry key="MOV" value="1" />
+          <entry key="cmake" value="1" />
+          <entry key="cpp" value="52" />
+          <entry key="dat" value="42" />
+          <entry key="h" value="25" />
+          <entry key="hpp" value="1" />
+          <entry key="png" value="6" />
+          <entry key="py" value="3" />
+          <entry key="txt" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="11" />
+          <entry key="Image" value="8" />
+          <entry key="ObjectiveC" value="78" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="10798" />
+          <entry key="dat" value="2" />
+          <entry key="h" value="1347" />
+          <entry key="txt" value="132" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="132" />
+          <entry key="ObjectiveC" value="12145" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/castles/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+              <folding>
+                <element signature="e#295#324#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castles/DominantColor.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-350">
+              <caret line="292" column="10" selection-start-line="292" selection-start-column="10" selection-end-line="292" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castles/DominantColor.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castles/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/castles/court_line.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="29" />
+              <folding>
+                <element signature="e#249#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>max_</find>
+      <find>int</find>
+      <find>transpose</find>
+      <find>debug</find>
+      <find>drawLines</find>
+      <find>&gt;&gt;</find>
+      <find>line</find>
+      <find>gaussi</find>
+      <find>cout</find>
+      <find>courtPoints</find>
+      <find>compute</find>
+      <find>computeIntersectionPoint</find>
+      <find>specia</find>
+      <find>special</find>
+      <find>onePoint</find>
+      <find>T</find>
+      <find>differenceThreshold</find>
+      <find>gauss</find>
+      <find>dis</find>
+      <find>count</find>
+      <find>distance</find>
+      <find>ball</find>
+      <find>final</find>
+      <find>inFrame</find>
+      <find>BallCandidateProducing</find>
+      <find>vector</find>
+      <find>Key</find>
+      <find>ballcan</find>
+      <find>drawball</find>
+      <find>filled</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tennis-court-detection" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Line.cpp" />
+        <option value="$PROJECT_DIR$/volleyball-court-detection/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/tennis-court-detection/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/cpp_court_line/geometry.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/geometry.cpp" />
+        <option value="$PROJECT_DIR$/tennis-court-detection-2/CourtLineCandidateDetector.cpp" />
+        <option value="$PROJECT_DIR$/tennis-court-detection/Line.cpp" />
+        <option value="$PROJECT_DIR$/tennis-court-detection/Line.h" />
+        <option value="$PROJECT_DIR$/tennis-court-detection/CourtLinePixelDetector.cpp" />
+        <option value="$PROJECT_DIR$/tennis-court-detection/TennisCourtFitter.cpp" />
+        <option value="$PROJECT_DIR$/tennis-court-detection-2/geometry.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/LineComparator.h" />
+        <option value="$PROJECT_DIR$/Line.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/Line.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/TennisCourtModel.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/TennisCourtModel.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/Line.h" />
+        <option value="$PROJECT_DIR$/tennis-court-detection/TennisCourtModel.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/VolleyballCourtFitter.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/LineDetection.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/LineDetection.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/VolleyballCourtFitter.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/PixelDetection.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/PixelDetection.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/LineComparator.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/yFile.dat" />
+        <option value="$PROJECT_DIR$/cpp_court_line/VolleyballCourtModel.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/Plotter.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/BallCandidateProducing.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/Plotter.cpp" />
+        <option value="$PROJECT_DIR$/castles/PixelDetection.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/VolleyballCourtModel.cpp" />
+        <option value="$PROJECT_DIR$/castles/LineDetection.h" />
+        <option value="$PROJECT_DIR$/castles/LineDetection.cpp" />
+        <option value="$PROJECT_DIR$/castles/PixelDetection.cpp" />
+        <option value="$PROJECT_DIR$/castles/court_line.cpp" />
+        <option value="$PROJECT_DIR$/castles/BallCandidateProducing.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/court_line.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/BallCandidateProducing.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/InitialBallTrack.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/InitialBallTrack.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/cpp_court_line/DrawDebug.cpp" />
+        <option value="$PROJECT_DIR$/cpp_court_line/DrawDebug.h" />
+        <option value="$PROJECT_DIR$/cpp_court_line/main.cpp" />
+        <option value="$PROJECT_DIR$/castles/DrawDebug.h" />
+        <option value="$PROJECT_DIR$/castles/DrawDebug.cpp" />
+        <option value="$PROJECT_DIR$/castles/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/castles/DominantColor.h" />
+        <option value="$PROJECT_DIR$/castles/DominantColor.cpp" />
+        <option value="$PROJECT_DIR$/castles/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cpp_court_line" type="b2602c69:ProjectViewProjectNode" />
+              <item name="research" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpp_court_line" type="b2602c69:ProjectViewProjectNode" />
+              <item name="research" type="462c0819:PsiDirectoryNode" />
+              <item name="castles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpp_court_line" type="b2602c69:ProjectViewProjectNode" />
+              <item name="research" type="462c0819:PsiDirectoryNode" />
+              <item name="cpp_court_line" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cpp_court_line" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/castles" />
+      <recent name="$PROJECT_DIR$/cpp_court_line" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpp_court_line" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_court_line" TARGET_NAME="cpp_court_line" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_court_line" RUN_TARGET_NAME="cpp_court_line">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.cpp_court_line" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67332e24-b513-4c5b-9662-7daee2836715" name="Default" comment="" />
+      <created>1536686116053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536686116053</updated>
+      <workItem from="1543247068781" duration="1877000" />
+      <workItem from="1543948134302" duration="598000" />
+      <workItem from="1544191591826" duration="817000" />
+      <workItem from="1544724786217" duration="1316000" />
+      <workItem from="1545328232273" duration="878000" />
+      <workItem from="1546827240591" duration="102000" />
+      <workItem from="1547146148395" duration="6100000" />
+      <workItem from="1547658082237" duration="614000" />
+      <workItem from="1548092937043" duration="297000" />
+      <workItem from="1548779030626" duration="5148000" />
+      <workItem from="1549539896751" duration="3878000" />
+      <workItem from="1549736141040" duration="2714000" />
+      <workItem from="1550447551319" duration="1693000" />
+      <workItem from="1551028207161" duration="323000" />
+      <workItem from="1551563941690" duration="1567000" />
+      <workItem from="1551810997433" duration="5471000" />
+      <workItem from="1552414161772" duration="1644000" />
+      <workItem from="1552584458632" duration="3000" />
+      <workItem from="1553086543778" duration="18000" />
+      <workItem from="1553089052304" duration="4122000" />
+      <workItem from="1553620916397" duration="155000" />
+      <workItem from="1553621075013" duration="5869000" />
+      <workItem from="1554829689096" duration="21086000" />
+      <workItem from="1556042607952" duration="4000" />
+      <workItem from="1557021667920" duration="4587000" />
+      <workItem from="1557506826646" duration="17409000" />
+      <workItem from="1557852657886" duration="2802000" />
+      <workItem from="1558014839042" duration="8715000" />
+      <workItem from="1558829209555" duration="8283000" />
+      <workItem from="1558975630564" duration="4844000" />
+      <workItem from="1559065913031" duration="218000" />
+      <workItem from="1560734871335" duration="2912000" />
+      <workItem from="1561563406186" duration="6820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="150528000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16738197" />
+      <window_info id="Structure" order="1" weight="0.24922441" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4966216" weight="0.32761088" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49493244" weight="0.32761088" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.626151" visible="true" weight="0.2253012" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.37384897" side_tool="true" weight="0.3190272" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.47954866" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="13" sideWeight="0.49324325" weight="0.3253012" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tennis-court-detection/CourtLineCandidateDetector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tennis-court-detection/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tennis-court-detection/CourtLinePixelDetector.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="64" column="11" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tennis-court-detection/CourtLineCandidateDetector.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="93" column="4" lean-forward="true" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tennis-court-detection/DebugHelpers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-487">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/PixelDetection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1066">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv4/opencv2/opencv.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tennis-court-detection/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/finalPoints.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/CppGnuplotExample6/main.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/Line.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motion_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/LineComparator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/xFile.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/yFile.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/Line.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/Plotter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/Plotter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/PixelDetection.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/castles1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/IMG_1089.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/castles2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/VolleyballCourtModel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/VolleyballCourtModel.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4430">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/IMG_1200.MOV">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/LineDetection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/LineDetection.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/VolleyballCourtModel.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/BallCandidateProducing.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="105" column="54" selection-start-line="105" selection-start-column="54" selection-end-line="105" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/PixelDetection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="113" column="34" selection-start-line="113" selection-start-column="30" selection-end-line="113" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/BallCandidateProducing.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/BallCandidateProducing.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="34" column="2" lean-forward="true" selection-start-line="7" selection-end-line="34" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/InitialBallTrack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#117#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/InitialBallTrack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-290">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="e#46#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/court_line.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+          <folding>
+            <element signature="e#249#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1038">
+          <caret line="108" column="108" selection-start-line="108" selection-start-column="108" selection-end-line="108" selection-end-column="108" />
+          <folding>
+            <element signature="e#331#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/IMG_1039.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/court_line.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="29" />
+          <folding>
+            <element signature="e#249#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/DrawDebug.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="66" lean-forward="true" selection-end-line="19" />
+          <folding>
+            <element signature="e#46#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/DrawDebug.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#46#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_court_line/DrawDebug.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="32" column="27" lean-forward="true" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/DrawDebug.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/quantized.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/palette.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/classification.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/DominantColor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/DominantColor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="292" column="10" selection-start-line="292" selection-start-column="10" selection-end-line="292" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castles/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+          <folding>
+            <element signature="e#295#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

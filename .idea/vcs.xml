@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/castles/externals/gnuplot-iostream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpp_court_line/externals/gnuplot-iostream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpp_court_line/gnuplot-iostream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tennis-court-detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tennis-court-detection-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/volleyball-court-detection" vcs="Git" />
+  </component>
+</project>

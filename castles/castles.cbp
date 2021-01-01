@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="castles"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/katiepruitt/Documents/research/castles"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/katiepruitt/Documents/research/castles"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/katiepruitt/Documents/research/castles"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="castles">
+				<Option output="/Users/katiepruitt/Documents/research/castles/castles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/katiepruitt/Documents/research/castles"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/katiepruitt/Documents/research/castles/externals/gnuplot-iostream"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 castles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="castles/fast">
+				<Option output="/Users/katiepruitt/Documents/research/castles/castles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/katiepruitt/Documents/research/castles"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/katiepruitt/Documents/research/castles/externals/gnuplot-iostream"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 castles/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/katiepruitt/Documents/research/castles/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/BallCandidateProducing.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/BallCandidateProducing.h">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/DominantColor.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/DominantColor.h">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/DrawDebug.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/DrawDebug.h">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/Line.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/Line.h">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/LineComparator.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/LineDetection.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/LineDetection.h">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/PixelDetection.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/PixelDetection.h">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/Plotter.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/Plotter.h">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/VolleyballCourtFitter.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/VolleyballCourtFitter.h">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/VolleyballCourtModel.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/VolleyballCourtModel.h">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/main.cpp">
+			<Option target="castles"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/katiepruitt/Documents/research/castles/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,2 @@
+Cannot generate 'Release' into /Users/katiepruitt/Desktop/research/cpp_court_line/cmake-build-release
+CMakeCache.txt is found in the project dir, only in-source generation will be performed.
